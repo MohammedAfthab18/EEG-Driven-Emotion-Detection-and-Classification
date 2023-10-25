@@ -22,12 +22,26 @@ Emotions are complex and often difficult to interpret accurately. The EEG-Based 
 
 This open-source project is a step forward in emotion analysis and can serve as the foundation for numerous applications in fields like psychology, neuroscience, and human-computer interaction. Feel free to explore, contribute, and make use of the EEG-Based Emotion Classifier for your research and development needs.
 
+## ⚙️ Installation
 
-## 🛠️ Installation
+To get started with the EEG-Based Emotion Classifier project, follow these simple installation steps:
 
-🔧 Provide instructions on how to install and set up your project. You can include code examples, system requirements, and dependencies here.
+### Prerequisites
+
+Before you begin, ensure you have the following prerequisites installed on your system:
+
+- Python (3.6 or higher)
+- Jupyter Notebook (if running the project in a Jupyter environment)
+- Required Python libraries (you can install these using `pip`):
+  ```bash
+  git clone https://github.com/YourUsername/EEG-Emotion-Classifier.git
+  
+```bash
+  cd EEG-Emotion-Classifier
+  jupyter notebook
+
 
 ```shell
-$ git clone https://github.com/YourUsername/YourRepoName.git
+$ git clone https://github.com/MohammedAfthab18/EEG-Driven-Emotion-Detection-and-Classification.git
 $ cd YourRepoName
 $ pip install -r requirements.txt
