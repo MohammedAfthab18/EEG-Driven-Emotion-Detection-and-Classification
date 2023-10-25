@@ -33,11 +33,6 @@ Before you begin, ensure you have the following prerequisites installed on your 
 - Python (3.6 or higher)
 - Jupyter Notebook (if running the project in a Jupyter environment)
 - Required Python libraries (you can install these using `pip`):
-- ```bash
-  git clone https://github.com/YourUsername/EEG-Emotion-Classifier.git
-  cd EEG-Emotion-Classifier
-  jupyter notebook
-
 
 ```shell
 $ git clone https://github.com/MohammedAfthab18/EEG-Driven-Emotion-Detection-and-Classification.git
