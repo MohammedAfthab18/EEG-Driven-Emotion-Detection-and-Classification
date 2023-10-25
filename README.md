@@ -1,6 +1,6 @@
 # ⭐ EEG-Based Emotion Classifier ⭐
 
-![Project Image](your-image-url.png)
+![image](https://github.com/MohammedAfthab18/EEG-Driven-Emotion-Detection-and-Classification/assets/85329977/7bfff9cf-5b67-4df9-8ed0-c544a08fd587)
 
 [![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepoName.svg?style=social)](https://github.com/YourUsername/YourRepoName/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepoName.svg?style=social)](https://github.com/YourUsername/YourRepoName/network)
