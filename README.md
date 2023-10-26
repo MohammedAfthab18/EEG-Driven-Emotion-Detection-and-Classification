@@ -36,5 +36,5 @@ Before you begin, ensure you have the following prerequisites installed on your 
 
 ```shell
 $ git clone https://github.com/MohammedAfthab18/EEG-Driven-Emotion-Detection-and-Classification.git
-$ cd YourRepoName
+$ cd EEG-Driven-Emotion-Detection-and-Classification
 $ pip install -r requirements.txt
